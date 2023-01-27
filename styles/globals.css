@@ -1,0 +1,211 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  html{
+      font-family: 'Roboto', sans-serif;
+  }
+  body{
+      @apply overflow-x-hidden;
+  }
+}
+
+@layer components{
+  .block-content{
+    @apply px-7 py-5 max-w-screen-lg mx-auto md:py-14 2xl:max-w-screen-2xl;
+  }
+  .h1{
+    @apply text-3xl leading-snug sm:text-4xl md:text-6xl md:leading-tight lg:text-7xl lg:leading-tight 2xl:text-8xl 2xl:leading-tight;
+  }
+  .h2{
+      @apply text-3xl leading-snug md:text-4xl md:leading-tight lg:text-[2.75rem] lg:leading-tight 2xl:text-6xl 2xl:leading-tight;
+  }
+  .h3{
+      @apply text-xl leading-snug sm:text-2xl md:text-3xl lg:text-4xl 2xl:text-5xl;
+  }
+  .h4{
+      @apply text-2xl leading-reduced md:text-3xl 2xl:text-[2.25rem];
+  }
+  .h5{
+      @apply text-lg leading-reduced md:text-xl 2xl:text-xl;
+  }
+  .btn{
+    @apply inline-flex items-center justify-center px-8 py-3 leading-normal border border-transparent cursor-pointer transition-colors;
+  }
+  .input{
+    @apply p-3 border-2 border-transparent w-full focus:outline-none focus:shadow-md transition-shadow;
+  }
+
+  .background{
+    @apply absolute top-0 left-0 w-full h-full object-cover;
+  }
+
+  .sector{
+    @apply drop-shadow-sector lg:opacity-0 lg:hover:opacity-100 transition-opacity;
+  }
+  .sector-default{
+      @apply drop-shadow-sector transition-opacity;
+  }
+  .content, .content-default{
+      @apply hidden;
+  }
+
+  /*-Language Switcher-*/
+  .lang-switcher{
+    @apply relative z-10;
+  }
+  .lang-btn{
+      @apply flex items-center transition-colors;
+  }
+  .lang-btn:hover, .lang-btn.active{
+      @apply bg-primary-100 border-primary-100 text-white fill-white;
+  }
+  .lang-arrow{
+      @apply transition-transform;
+  }
+  .lang-btn.active .lang-arrow{
+      @apply rotate-180;
+  }
+  .lang-options{
+      @apply shadow-md px-4 w-24 absolute top-full right-0 lg:right-auto lg:left-0 overflow-hidden max-h-0 py-0 transition-lang;
+  }
+  .lang-options.active{
+      @apply py-4 max-h-fit;
+  }
+  .lang-op{
+      @apply flex items-center w-full mb-1.5 last:mb-0 transition-colors;
+  }
+
+  @media screen(lg){
+      .content{
+          @apply block opacity-0 transition-opacity pointer-events-none;
+      }
+      .content-default{
+          @apply block transition-opacity pointer-events-none;
+      }
+      .sector:hover + .content{
+          @apply opacity-100;
+      }
+  }
+
+  @keyframes tranOp {
+      to{
+          transform: translate3d(0,0,0);
+          opacity: 1;
+      }
+  }
+  @keyframes show {
+      to{
+          opacity: 1;
+      }
+  }
+  .tran-op{
+      --d: 0s;
+      --dist-x: 0;
+      --dist-y: 0;
+      transform: translate3d(var(--dist-x), var(--dist-y), 0);
+      opacity: 0;
+  }
+  .opacity{
+    --d: 0s;
+    opacity: 0;
+  }
+  .animated.tran-op{
+      animation: tranOp 0.5s var(--d) ease-out forwards;
+  }
+  .animated.opacity{
+      animation: show 0.5s var(--d) ease-out forwards;
+  }
+
+  .anim-left{
+    @apply [--dist-x:-30px]
+  }
+  .anim-bottom-right-md{
+    @apply [--dist-y:30px] md:[--dist-y:0] md:[--dist-x:30px]
+  }
+}
+
+@layer utilities{
+  .font-title{
+    font-family: 'Rajdhani', sans-serif;
+  }
+  .font-link{
+      font-family: 'Chakra Petch', sans-serif;
+  }
+}
+
+.cls-1, .cls-2, .cls-3 {
+  fill: #fff;
+}
+
+.cls-4, .cls-5 {
+  stroke: #fff;
+  stroke-miterlimit: 10;
+}
+
+.cls-4, .cls-5, .cls-6 {
+  fill: none;
+}
+
+.cls-5 {
+  stroke-dasharray: 0 0 10 10;
+}
+
+.cls-7 {
+  fill: #6240f5;
+}
+
+.cls-8 {
+  fill: #3010ba;
+  opacity: .69;
+}
+
+.cls-6 {
+  stroke: rgba(255, 255, 255, .19);
+  stroke-width: 5px;
+}
+
+.cls-9 {
+  opacity: .26;
+}
+
+.cls-3 {
+  font-family: 'Chakra Petch', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.num-count{
+  counter-reset: priv 0;
+}
+.rom-count{
+  counter-reset: rom 0;
+}
+.letter-count{
+  counter-reset: lett 0;
+}
+.num-increment {
+  counter-increment: priv 1;
+}
+.rom-increment {
+  counter-increment: rom 1;
+}
+.letter-increment {
+  counter-increment: lett 1;
+}
+.before\:num-result::before {
+  content: counter(priv)'. ';
+}
+.before\:letter-result::before {
+  content: counter(lett, upper-alpha)'. ';
+}
+.before\:letter-low-result::before {
+  content: ' ('counter(lett, lower-alpha)') ';
+  font-weight: 700;
+  color: theme(colors.primary.100);
+}
+.before\:rom-result::before {
+  content: ' ('counter(rom, lower-roman)') ';
+  font-weight: 700;
+}

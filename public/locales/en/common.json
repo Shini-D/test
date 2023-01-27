@@ -1,0 +1,134 @@
+{
+    "heroText": "The only blockchain metaverse 100% ready for oculus quest",
+    "heroBtn1": "Launch",
+    "heroBtn2": "Marketplace",
+    "heroBtn3": "Buy now",
+    "svgBtn": "View live map",
+
+    "referralUrl": "Referral URL from marketplace",
+    "generateBtn": "Generate link",
+    "referralPlaceholder": "Paste Referral URL",
+    "generateAlert": "Please insert a valid link from https://disruptiverse.net/ Referral URL.",
+    "copyClipboard": "Copy to clipboard",
+    "copyOk": "Copied",
+
+    "roadTitle": "Roadmap",
+    "step1Month": "January",
+    "step1Text": {
+        "p1": "Disruptive City in VR update",
+        "p2": "Bundle and APK to App Lab",
+        "length": 2
+    },
+    "step2Month": "February",
+    "step2Text": {
+        "p1": "Catalog buildings and interior scenes according to their rarity",
+        "p2": "Disruptiverse Luxury City (web)",
+        "p3": "Disruptiverse City (web)",
+        "length": 3
+    },
+    "step3Month": "March",
+    "step3Text": {
+        "p1": "Disruptiverse Luxury City (VR)",
+        "p2": "Disruptiverse City (VR)",
+        "length": 2
+    },
+    "step4Month": "April",
+    "step4Text": {
+        "p1": "Search Mechanics (VR/web)",
+        "p2": "Automation Mechanics (VR/web)",
+        "p3": "Hand Mechanics (VR)",
+        "length": 3
+    },
+
+    "privacyTitle": "Privacy Policy",
+
+    "privacyInitial": {
+        "p1": "DISRUPTIVE STUDIO INC, with e-mail",
+        "p2": "metaverso@disruptivestudio.com",
+        "p3": "and portal disruptiverse.com is responsible for the use and protection of the personal data of the owner of these, and in this regard we inform you as follows:"
+    },
+
+    "privacy1Title": "The purposes for which your personal data will be used:",
+    "privacy1Text": {
+        "p1": "The personal data we collect from you, through direct or indirect delivery, will be used for the following purposes that are necessary for your relationship with DISRUPTIVERSE:",
+        "p2": "DISRUPTIVERSE will process your personal data in order to comply with obligations arising from legal relationships that bind the holder with the controller.",
+        "p3": "Similarly, the processing of your personal data may be due to the provision of contractual services, stock exchange or financial transactions, compliance with legal obligations or resolutions from competent authorities, billing, credit, customer service, technical service, use of electronic platform, technical support, management of personal files, statistical information, management, feeding and administration of applications and electronic media, virtual transactions, virtual behavior; contact by any means of communication with the holders of personal data; as well as changes in the existing legal relationship between the holder and the responsible.",
+        "p4": "In addition, the responsible may treat your personal data for other purposes such as notifying communications, sending any type of communication, notices, messages in terms of the terms and conditions of use of our technology platform and this Privacy Notice.",
+        "p5": "Additionally, any person entering the facilities where DISRUPTIVERSE establishes physical offices may be videotaped by its own security cameras or those of third parties that provide private security services; likewise, they may be photographed and identification data may even be obtained as a security measure, being recorded for a prudent storage period, in accordance with the storage capacity of the equipment intended for such purpose.",
+        "p6": "Data may also be used to interact with hardware and software to enhance the user experience, create accounts, provide content, improve content, marketing purposes, behavioral tracking, technical support, communicate with you, personalize your experience, interconnect you with other platforms or users, identify your body movements and adapt them to the virtual environment, improve security environments.",
+        "p7": "Finally, the data controller may use sensitive personal data previously collected for the attention of the services it provides, which may be transferred to third parties only under the terms of the contracts entered into with the holder and the applicable legislation.",
+        "p8": "Your financial and patrimonial personal data that require express consent in terms of the applicable legislation, will only be used for the contractual relationships entered into with the responsible party and in accordance with the purposes previously established. If the holder does not exercise his right to oppose the processing of his personal data in its financial and patrimonial aspect, it will be understood that he gives us his express consent to do so. However, the responsible party is committed not to treat such data for purposes other than those stated in this Privacy Notice or the corresponding terms and conditions, except in the cases of exception indicated by the applicable legislation.",
+        "p9": "Thus, based on the content of this section, the holder may at any time Access, Rectify, Cancel or Oppose the processing of his personal data collected for these purposes individually or as a whole, through the means established to exercise his ARCO rights in terms of this Privacy Notice, in the understanding that if he does not oppose it within five calendar days, counted from the time his personal data is collected in any physical or electronic form, it will be understood that he has given his consent.",
+        "length": 9
+    },
+
+    "privacy2Title": "About the personal data we process for the above purposes:",
+    "privacy2Text": {
+        "p1": "To carry out the purposes described in this privacy notice, we will use the following personal data:",
+        "p2": "Name, date and place of birth, marital status, tax ID, official IDs, photographs, behaviors, videos, nationality, address, voice, telephones, email, age, family data, contacts, purchase activity, dates, virtual creations of the user, interactions with other users, connection data with other technological platforms, personal identifiers, IP address, GPS location, body movements, body dimensions, local file paths, interaction times, patrimonial and/or financial data; as well as those additionally specified in the service contracts signed with DISRUPTIVERSE.",
+        "p3": "On the other hand, exclusively for the purposes specified in this privacy notice, the data controller may process personal health data, which in terms of the Law are considered as sensitive and require special protection.",
+        "length": 3
+    },
+
+    "privacy3Title": "On the transfer of personal data:",
+    "privacy3Text": {
+        "p1": "We inform you that your personal data may be shared inside and outside the country with the following persons other than us, for the following purposes:",
+        "p2": "With municipal, state, federal or foreign authorities; as well as insurance, technology, financial, technological development companies and in general any other entity under the express terms of the service provision contracts entered into between the holder and DISRUPTIVERSE.",
+        "p3": "The foregoing is so, by virtue of the legal relationship between the responsible party and the owner or recipients of the personal data, taking into account that it will be the obligation of the recipient to maintain the confidentiality of their personal data and comply with the provisions of this privacy notice, except for any other provision that by operation of law is applicable.",
+        "p4": "In some cases, user information can be exchanged with other platforms or users, when the user decides to interact through movements, transactions, interactions, voice, messages or data.",
+        "p5": "Therefore, if the owner does not express his refusal to the transfer of his personal data in the terms and for the purposes of this privacy notice, it will be understood that he grants the responsible the authorization of transfer.",
+        "p6": "In terms of the applicable legislation, the data controller may be obliged to transfer the holder's personal data to the competent authorities that so require, upon a duly founded and motivated request.",
+        "length": 6
+    },
+
+    "privacy4Title": "Exercise of the rights of Access, Rectification, Cancellation or Opposition of personal data:",
+    "privacy4Text": {
+        "p1": "The owner of the personal data in possession of the data controller, may exercise at any time and autonomously the ARCO rights provided in the applicable legislation, following the procedures provided in this privacy notice.",
+        "p2": "Access to your data, refers to know what personal data we have about the holder, what they are used for and the conditions of use that the responsible gives it; the correction is carried out when your personal data is not updated, the same are inaccurate or incomplete; the request for cancellation may be exercised when the holder considers that their personal data are not used properly; and opposition is aimed at preventing their data to be used for specific purposes.",
+        "p3": "To exercise any of these rights, the holder must submit a letter or send an email to the personal data office of the responsible party or to the email address provided for that purpose, indicated in the foreword of this privacy notice; clearly indicating the procedure you wish to perform, on which data in particular, the means to receive notifications and responses; and if applicable, the means of reproduction in which you want your personal data to be made available in the case of exercising access to them, for which the corresponding and justified charge for reproduction may be applicable.",
+        "p4": "In order to prove the identity of the holder or, if applicable, the personality of the legal representative of the holder, a copy or official digitalized document confirming it must be attached.",
+        "length": 4
+    },
+
+    "privacy5Title": "Revocation of personal data processing:",
+    "privacy5Text": {
+        "p1": "At any time, the holder may revoke the tacit or express consent given to the controller for the processing of personal data, however, it is important to know that under legal orders or competent authorities could not always be met to your satisfaction the request for revocation immediately, until the end of the corresponding obligation.",
+        "p2": "It should be noted that, in the revocation resolution notified by the responsible party, the consequences that this could entail, such as the impediment to continue the contractual relationship with DISRUPTIVERSE , under the agreed or applicable legal terms, will be duly indicated.",
+        "p3": "The procedure for submitting your revocation request shall be the same as that indicated in the preceding paragraph.",
+        "length": 3
+    },
+
+    "privacy6Title": "Limitation on the use or disclosure of your personal data:",
+    "privacy6Text": {
+        "p1": "The data controller, through its employees, will keep the owner's data for a reasonable period of time in order to process the requests he/she exercises, in addition to complying with the applicable contractual or legal provisions.",
+        "p2": "Your data will be protected by the most powerful administrative, technological and physical protection and security measures that are possible for the responsible to avoid any damage, loss, alteration, destruction, use, disclosure or unauthorized treatment; however, for reasons beyond the responsible, third parties could violate the measures used by the responsible, in addition there could be force majeure or fortuitous causes in which personal data could be vulnerable; therefore, under these assumptions, the responsible will not be liable for any damages or losses caused to the holder.",
+        "p3": "The duly accredited holder or the legal representative thereof, may limit the use or disclosure of their personal data, following the mechanisms established in this privacy notice, for the exercise of ARCO rights.",
+        "length": 3
+    },
+
+    "privacy7Title": "The use of tracking technologies on our website:",
+    "privacy7Text": {
+        "p1": "We inform you that in our website, technological platforms, applications and systems we use technologies, through which it is possible to monitor your behavior as a user of our electronic services, in order to offer you a better experience when using our systems.",
+        "length": 1
+    },
+
+    "privacy8Title": "Consent of the owner of the personal data:",
+    "privacy8Text": {
+        "p1": "In compliance with the provisions of the applicable legislation, the Holder of personal data declares:",
+        "p2": {
+            "ol1": "That this Privacy Notice has been made known to you in a timely manner by the person responsible for the processing of your personal data.",
+            "ol2": "That you have fully read, understood or expressed your doubts and consequently agree with the terms set forth in this Privacy Notice.",
+            "ol3": "That you expressly consent to the transfer of your data in terms of this privacy notice and the corresponding contractual relationships.",
+            "ol4": "That he/she knows and accepts the means to exercise his/her ARCO rights before DISRUPTIVERSE.",
+            "length": 4
+        }
+    },
+
+    "privacy9Title": "Of the publication and changes in this privacy notice:",
+    "privacy9Text": {
+        "p1": "The last update of this privacy notice was published on September fifth, two thousand twenty-two; however, the holder is aware and accepts that it may have modifications, changes or updates derived from new legal requirements; from our own needs for the products or services we offer; from our privacy practices; from changes in our business model, or for other causes.",
+        "p2": "Therefore, the holder assumes the responsibility to periodically review the content of this privacy notice on the disruptiverse.com  website and may request it at any time to the e-mail address specified in the foreword of this notice.",
+        "p3": "Thus, the responsible party understands that if there is no opposition from the holder to the modifications of this notice, it implies that he/she has read, understood and accepted it in accordance with all its terms in an express manner.",
+        "length": 3
+    }
+}

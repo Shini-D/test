@@ -1,0 +1,134 @@
+{
+    "heroText": "El único metaverso con tecnología blockchain, 100% habilitado para Oculus Quest 2",
+    "heroBtn1": "Lanzamiento",
+    "heroBtn2": "Marketplace",
+    "heroBtn3": "Comprar",
+    "svgBtn": "Ver el mapa",
+
+    "referralUrl": "URL de referido del marketplace",
+    "generateBtn": "Generar enlace",
+    "referralPlaceholder": "Pegar URL de referido",
+    "generateAlert": "Por favor ingresa un enlace válido de https://disruptiverse.net/ URL de referido.",
+    "copyClipboard": "Copiar al portapapeles",
+    "copyOk": "Copiado",
+
+    "roadTitle": "Roadmap",
+    "step1Month": "Enero",
+    "step1Text": {
+        "p1": "Disruptive City habilitada para VR",
+        "p2": "Bundle y APK en App Lab",
+        "length": 2
+    },
+    "step2Month": "Febrero",
+    "step2Text": {
+        "p1": "Ordenar edificios y escenas interiores acorde a su especialidad",
+        "p2": "Disruptiverse Luxury City (lanzamiento en versión web)",
+        "p3": "Disruptiverse City (lanzamiento en versión web)",
+        "length": 3
+    },
+    "step3Month": "Marzo",
+    "step3Text": {
+        "p1": "Disruptiverse Luxury City (habilitada para VR)",
+        "p2": "Disruptiverse City (habilitada para VR)",
+        "length": 2
+    },
+    "step4Month": "Abril",
+    "step4Text": {
+        "p1": "Dinámica de búsqueda (habilitada en VR/web)",
+        "p2": "Automatización (habilitada en VR/web)",
+        "p3": "Movimiento de las manos (disponible para VR)",
+        "length": 3
+    },
+
+    "privacyTitle": "Aviso de privacidad",
+
+    "privacyInitial": {
+        "p1": "DISRUPTIVE STUDIO INC, con correo electrónico",
+        "p2": "metaverso@disruptivestudio.com",
+        "p3": "y portal disruptiverse.com es el responsable del uso y protección de los datos personales del titular de éstos, y al respecto le informamos lo siguiente:"
+    },
+
+    "privacy1Title": "De los fines para los cuales serán utilizados sus datos personales:",
+    "privacy1Text": {
+        "p1": "Los datos personales que recabamos de usted, mediante entrega directa o indirecta, los utilizaremos para las siguientes finalidades que resultan necesarias para su relación con DISRUPTIVERSE:",
+        "p2": "DISRUPTIVERSE tratará sus datos personales en función del cumplimiento de obligaciones derivadas de relaciones jurídicas que vinculen al titular con el responsable.",
+        "p3": "De igual manera, el tratamiento de sus datos personales puede obedecer a la prestación de servicios contractuales, transacciones bursátiles o financieras, cumplimiento de obligaciones legales o resoluciones provenientes de autoridades competentes, facturaciones, créditos, atención a clientes, servicio técnico, uso de plataforma electrónica, soporte técnico, manejo de expedientes personales, información estadística, gestiones, alimentación y administración de aplicaciones y medios electrónicos, transacciones virtuales, comportamiento virtual; contacto por cualquier medio de comunicación con los titulares de datos personales; así como modificaciones en las relaciones jurídicas existentes entre el titular y el responsable.",
+        "p4": "Además, el responsable podrá tratar sus datos personales para otras finalidades como notificar comunicados, envíos de cualquier tipo de comunicación, avisos, mensajes en términos de los términos y condiciones del uso de nuestra plataforma tecnológica y del presente Aviso de Privacidad.",
+        "p5": "Adicionalmente, toda persona que ingrese a las instalaciones donde DISRUPTIVERSE establezca oficinas físicas, podrá ser videograbada por cámaras de seguridad propias o de terceros que presten servicios de seguridad privada; asimismo, podría ser fotografiada e incluso podrá obtenerse datos de identificación como medida de seguridad, quedando registro de ello por un periodo de almacenamiento prudente, de conformidad con la capacidad de almacenamiento de los equipos destinados para tal fin.",
+        "p6": "Los datos también pueden ser usados para interactuar con el hardware y software para mejorar la experiencia del usuario, crear cuentas, proporcionar contenido, mejorar contenido, fines de marketing, seguimiento de comportamientos, soporte técnico, comunicarnos con usted, personalizar su experiencia, interconectarlo con otras plataformas o usuarios, identificar sus movimientos corporales y adaptarlos al entorno virtual, mejorar los entornos de seguridad.",
+        "p7": "Por último, el responsable podrá utilizar datos personales sensibles previamente recabados para la atención de los servicios que otorga, los cuales podrán ser transferidos a terceros únicamente en los términos de los contratos celebrados con el titular y de la legislación aplicable.",
+        "p8": "Sus datos personales patrimoniales y financieros que requieran consentimiento expreso en términos de la legislación aplicable, únicamente serán utilizados para las relaciones contractuales celebradas con la responsable y de conformidad con las finalidades previamente establecidas. Si el titular no ejercita su derecho de oposición para el tratamiento de sus datos personales en su vertiente financiero y patrimonial, se entenderá que nos otorga su consentimiento expreso para ello. No obstante, es compromiso de la responsable no tratar dichos datos para finalidades diversas de las apuntadas en este Aviso de Privacidad o los términos y condiciones correspondientes, salvo los casos de excepción señalados por la legislación aplicable.",
+        "p9": "Así, en mérito del contenido del presente apartado, el titular puede en cualquier momento acceder, rectificar, cancelar u oponerse al tratamiento de sus datos personales recabados para estas finalidades de manera singular o en su conjunto, mediante los medios establecidos para ejercitar sus derechos ARCO en términos del presente Aviso de Privacidad, en la inteligencia que de no oponerse a ello en un plazo de cinco días naturales, contados desde el momento en que sus datos personales sean recabados de cualquier forma física o electrónica, se entenderá que ha otorgado su consentimiento.",
+        "length": 9
+    },
+
+    "privacy2Title": "De los datos personales que tratamos para los fines anteriores:",
+    "privacy2Text": {
+        "p1": "Para llevar a cabo las finalidades descritas en el presente aviso de privacidad, utilizaremos los siguientes datos personales:",
+        "p2": "Nombre, fecha y lugar de nacimiento, estado civil, registro de identidad fiscal, identificaciones oficiales, fotografías, comportamientos, videos, nacionalidad, domicilio, voz, teléfonos, correo electrónico, edad, datos familiares, contactos, actividad de compra, fechas, creaciones virtuales del usuario, interacciones con otros usuarios, datos de conexión con otras plataformas tecnológicas, identificadores personales, dirección IP, ubicación GPS, movimientos corporales, dimensiones corporales, rutas de archivos locales, temporalidades de interacción, datos patrimoniales y/o financieros; así como los que se precisen adicionalmente en los contratos de prestación de servicios celebrados con DISRUPTIVERSE.",
+        "p3": "Por otro lado, exclusivamente para las finalidades especificadas en el presente aviso de privacidad, el responsable podrá tratar datos personales de salud, los cuales en términos de la Ley son considerados como sensibles y requieren especial protección.",
+        "length": 3
+    },
+
+    "privacy3Title": "De la transferencia de datos personales:",
+    "privacy3Text": {
+        "p1": "Le informamos que sus datos personales son susceptibles de ser compartidos dentro y fuera del país con las siguientes personas distintas a nosotros, para los siguientes fines:",
+        "p2": "Con autoridades municipales, estatales, federales o extranjeras; así como empresas de seguros, tecnología, financieras, desarrollo tecnológico y en general cualquier otra entidad en los términos expresos de los contratos de prestación de servicios que se celebren entre el titular y DISRUPTIVERSE.",
+        "p3": "Lo anterior es así, en virtud de las relaciones jurídicas entre el responsable y el titular o los receptores de los datos personales, habida cuenta que será obligación del receptor mantener la confidencialidad de sus datos personales y cumplir con lo establecido en el presente aviso de privacidad, salvo otra disposición que por ministerio de Ley sea aplicable.",
+        "p4": "En algunos casos, se puede intercambiar la información del usuario con otras plataformas o usuarios, cuando aquél decide interactuar mediante movimientos, transacciones, interacciones, voz, mensajes o datos.",
+        "p5": "De ahí que, si el titular no manifiesta su negativa a la transferencia de sus datos personales en los términos y para las finalidades del presente aviso de privacidad, se entenderá que otorga a la responsable la autorización de transferencia.",
+        "p6": "En términos de la legislación aplicable, el responsable puede verse obligado a transferir los datos personales del titular a las autoridades competentes que así lo requieran, previa petición debidamente fundada y motivada.",
+        "length": 6
+    },
+
+    "privacy4Title": "Del ejercicio de los derechos de Acceso, Rectificación, Cancelación u Oposición de datos personales:",
+    "privacy4Text": {
+        "p1": "El titular de los datos personales en posesión del responsable, podrá ejercer en cualquier momento y de manera autónoma los derechos ARCO previstos en la legislación aplicable, siguiendo los procedimientos previstos en el presente aviso de privacidad.",
+        "p2": "El acceso a sus datos, hace referencia a conocer que datos personales tenemos del titular, para que son utilizados y las condiciones de uso que la responsable le da; la corrección se lleva a cabo cuando sus datos personales no se encuentran actualizados, los mismos son inexactos o incompletos; la solicitud de cancelación podrá ser ejercitada cuando el titular considere que sus datos personales no son utilizados adecuadamente; y la oposición se endereza a evitar que sus datos se usen para fines específicos.",
+        "p3": "Para ejercitar cualquiera de estos derechos, el titular deberá presentar un escrito o enviar un correo electrónico a la oficina de datos personales de la responsable o al correo electrónico destinado para ese fin, señalado en el proemio de este aviso de privacidad; indicando claramente que procedimiento desea realizar, sobre qué datos en particular, el medio para recibir notificaciones y respuestas; y en su caso el medio de reproducción en el cual desea que sea puesto a su disposición sus datos personales en el caso de ejercitar el acceso a los mismos, para lo cual podrá ser aplicable el cargo correspondiente y justificado por reproducción.",
+        "p4": "Para acreditar la identidad del titular o, en su caso, la personalidad del representante legal de aquel, deberá anexar copia o documento digitalizado oficial que lo confirme.",
+        "length": 4
+    },
+
+    "privacy5Title": "De la revocación de tratamiento de datos personales:",
+    "privacy5Text": {
+        "p1": "En cualquier momento, el titular puede revocar el consentimiento tácito o expreso otorgado al responsable para el tratamiento de sus datos personales, sin embargo, es importante que sepa que en virtud de mandamientos legales o de autoridades competentes no siempre podría atenderse a su satisfacción la solicitud de revocación de forma inmediata, hasta en tanto termine la obligación correspondiente.",
+        "p2": "Cabe señalar, que, en la resolución de revocación notificada por el responsable, se señalará oportunamente las consecuencias que ello podría traer aparejado, como puede ser el impedimento de continuar la relación contractual con DISRUPTIVERSE, en los términos convenidos o legales aplicables.",
+        "p3": "El procedimiento para presentar su solicitud de revocación, será el mismo que el señalado en el punto que antecede.",
+        "length": 3
+    },
+
+    "privacy6Title": "De la limitación en el uso o divulgación de sus datos personales:",
+    "privacy6Text": {
+        "p1": "El responsable, a través de sus encargados, conservarán los datos del titular por un plazo prudente para dar trámite a las solicitudes que ejercite, además de cumplir con las disposiciones contractuales o legales aplicables.",
+        "p2": "Sus datos se encontrarán protegidos por las medidas de protección y seguridad administrativas, tecnológicas y físicas de mayor alcance que sea posible por la responsable para evitar cualquier daño, pérdida, alteración, destrucción, uso, divulgación o tratamiento no autorizado; sin embargo, por causas ajenas al responsable, terceras personas podrían vulnerar las medidas empleadas por el responsable, además de que podrían existir causas de fuerza mayor o fortuitas en las cuales los datos personales pudieran quedar vulnerables; por lo que bajo estos supuestos, la responsable no será responsable de los daños o perjuicios causados al titular.",
+        "p3": "El titular debidamente acreditado o el representante legal del mismo, podrá limitar el uso o divulgación de sus datos personales, siguiendo los mecanismos establecidos en el presente aviso de privacidad, para el ejercicio de los derechos ARCO.",
+        "length": 3
+    },
+
+    "privacy7Title": "Del uso de tecnologías de rastreo en nuestro portal de internet:",
+    "privacy7Text": {
+        "p1": "Le informamos que en nuestro portal de internet, plataformas tecnológicas, aplicaciones y sistemas utilizamos tecnologías, mediante las cuales es posible monitorear su comportamiento como usuario de nuestros servicios electrónicos, con la finalidad de ofrecerle una mejor experiencia al usar nuestros sistemas.",
+        "length": 1
+    },
+
+    "privacy8Title": "Del consentimiento del titular de los datos personales:",
+    "privacy8Text": {
+        "p1": "En cumplimiento a lo dispuesto en la legislación aplicable, el Titular de datos personales manifiesta:",
+        "p2": {
+            "ol1": "Que el presente Aviso de Privacidad se le ha dado a conocer oportunamente por el responsable del tratamiento de sus datos personales.",
+            "ol2": "Que ha leído de manera íntegra, ha entendido o en su caso expresado sus dudas y en consecuencia está de acuerdo con los términos asentados en el presente Aviso de Privacidad.",
+            "ol3": "Que otorga expresamente su consentimiento para la transferencia de sus datos en términos del presente aviso de privacidad y las relaciones contractuales correspondientes.",
+            "ol4": "Que conoce y acepta los medios para ejercer sus derechos ARCO ante DISRUPTIVERSE.",
+            "length": 4
+        }
+    },
+
+    "privacy9Title": "De la publicación y cambios en el presente aviso de privacidad:",
+    "privacy9Text": {
+        "p1": "La última actualización del presente aviso de privacidad, fue publicada el día cinco de septiembre de dos mil veintidós; sin embargo, el titular está enterado y acepta que podrá tener modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas.",
+        "p2": "Por lo anterior, el titular asume la responsabilidad de revisar periódicamente el contenido del presente aviso de privacidad en el sitio electrónico disruptiverse.com además de que en cualquier momento lo podrá solicitar al correo electrónico precisado en el proemio de este aviso.",
+        "p3": "Así, el responsable entiende que de no existir oposición del titular a las modificaciones del presente aviso, implica que lo ha leído, entendido y aceptado de conformidad en todos sus términos de manera expresa.",
+        "length": 3
+    }
+}
